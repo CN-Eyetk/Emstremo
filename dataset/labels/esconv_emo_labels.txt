@@ -1,0 +1,11 @@
+anxiety
+anger
+fear
+depression
+sadness
+disgust
+shame
+nervousness
+pain
+jealousy
+guilt
